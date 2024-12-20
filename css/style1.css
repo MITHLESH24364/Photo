@@ -1,0 +1,50 @@
+.home-newsletter {
+    padding: 1px 1px,1px,1px;
+    display: flex;
+    justify-content: center;
+
+
+    }
+    
+    .home-newsletter .single {
+        width: 100%;
+    max-width: 450px;
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+   
+    z-index: 2; }
+    .home-newsletter .single h2 {
+    font-size: 22px;
+    color: rgb(246, 246, 246);
+    text-transform: uppercase;
+    margin-bottom: 40px; }
+    .home-newsletter .single .form-control {
+        width: 300px;
+    height: 50px;
+    background: white;
+    border-color: transparent;
+    border-radius: 20px 20px 20px 20px; }
+    .home-newsletter .single .form-control:focus {
+    box-shadow: none;
+    border-color: #243c4f; }
+    .home-newsletter .single .btn {
+        font-size: 19px;
+    min-height: 55px; 
+    border-radius: 20px 20px 20px 20px;
+    background: #352a2a;
+    color: #ffffff;
+    }
+    .spam{
+        color: rgb(0, 0, 0);
+        padding: 10px;
+        margin: auto;
+        display: block;
+        justify-content: center;
+        font-family: 'poppins';
+        font-size: '22';
+        width: 250px;
+    }
+    .forminput{
+        margin: 0 auto;
+    }
